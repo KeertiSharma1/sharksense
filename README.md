@@ -32,7 +32,7 @@ The objective was not to analyse a television show, but to study investment deci
 
 Measures how aggressively sharks correct founder valuations across sectors.
 
-![Valuation Correction](screenshots/insight1_valuation_correction.png)
+![Valuation Correction](sharksense/screenshots/insight1_valuation_correction.png)
 
 ---
 
