@@ -40,7 +40,7 @@ Measures how aggressively sharks correct founder valuations across sectors.
 
 Profiles each shark using investment frequency, capital deployment, equity demands, deal style, and sector preferences.
 
-![Shark DNA Matrix](screenshots/insight2_shark_dna.png)
+![Shark DNA Matrix](sharksense/screenshots/insight2_shark_dna.png)
 
 ---
 
@@ -48,7 +48,7 @@ Profiles each shark using investment frequency, capital deployment, equity deman
 
 Identifies sectors that generate strong revenue but still experience poor funding outcomes.
 
-![Unfunded Sector Map](screenshots/insight3_unfunded_sectors.png)
+![Unfunded Sector Map](sharksense/screenshots/insight3_unfunded_sectors.png)
 
 ---
 
@@ -58,15 +58,15 @@ Examines the conditions associated with royalty deals, equity deals, founder rej
 
 ### Outcome Analysis
 
-![Negotiation Pattern A](screenshots/insight4a.png)
+![Negotiation Pattern A](sharksense/screenshots/insight4a.png)
 
 ### Shark Behaviour Analysis
 
-![Negotiation Pattern B](screenshots/insight4b.png)
+![Negotiation Pattern B](sharksense/screenshots/insight4b.png)
 
 ### Sector Behaviour Analysis
 
-![Negotiation Pattern C](screenshots/insight4c.png)
+![Negotiation Pattern C](sharksense/screenshots/insight4c.png)
 
 ---
 
@@ -76,11 +76,11 @@ Tests whether attracting multiple sharks actually improves founder outcomes.
 
 ### Overall Analysis
 
-![Multiple Shark Overall](screenshots/insight5a_overall.png)
+![Multiple Shark Overall](sharksense/screenshots/insight5a_overall.png)
 
 ### Sector-Level Analysis
 
-![Multiple Shark Sector](screenshots/insight5b_sector.png)
+![Multiple Shark Sector](sharksense/screenshots/insight5b_sector.png)
 
 ---
 
